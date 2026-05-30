@@ -1,5 +1,5 @@
 
-readme = '''# 🤖 Infito — AI-Powered Visual Robotics Companion
+ '''# 🤖 Infito — AI-Powered Visual Robotics Companion
 
 > **"Humanity finally getting instructions better than 'some assembly required.'"**
 
@@ -34,7 +34,7 @@ Transform your robotics ideas into real, working projects with interactive visua
 ### 1. Clone & Setup
 
 ```bash
-git clone https://github.com/yourusername/infito.git
+git clone https://github.com/sanuja-gupta/infito.git
 cd infito
 ```
 
