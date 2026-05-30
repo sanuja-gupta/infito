@@ -175,7 +175,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ```
 MIT License
-Copyright (c) 2026 [Your Name]
+Copyright (c) 2026 [Sanuja Gupta]
 ```
 
 ---
